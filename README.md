@@ -1,9 +1,4 @@
-Below is a sample README file that documents the entire process of transforming raw data into business-ready datasets using the Medallion Architecture.
-
----
-
 # MHCLD Data Transformation Process
-
 ## Overview
 
 This document outlines the process of transforming raw data into business-ready datasets using the Medallion Architecture. The Medallion Architecture organizes data into different layers (bronze, silver, and gold) to streamline data processing and improve query performance.
